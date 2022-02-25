@@ -9,5 +9,8 @@ This adapter is also suitable for the 1541 Floppy Disk ROM.
 
 This development was inspired by Adrian Black's youtube video <a href="https://youtu.be/GPq5xnJRw2w">How-To: C64 Arduino based Restore Key/Four Kernal Switcher/Hard Reset</a>
 
+# Rev. 2
+This board revision provides and optional pin header with the address bits A5 and A8 for stereo SID application.
+
 # Calculation of the BOM prices
 The component prices of the BOM 0.0 were summed up. The total is 3.81€, which does not include and shipping fees.
